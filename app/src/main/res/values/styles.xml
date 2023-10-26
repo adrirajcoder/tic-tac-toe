@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">@drawable/buttonbackground</item>
+        <item name="android:elevation">10dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">45sp</item>
+        <!--        <item name="android:color">@color/lightOrange</item>-->
+        <!--        <item name="color">@color/lightOrange</item>-->
+        <!--        <item name="android:bottomRightRadius">2dp</item>-->
+        <!--        <item name="android:bottomLeftRadius">2dp</item>-->
+        <!--        <item name="android:topLeftRadius">2dp</item>-->
+        <!--        <item name="android:topRightRadius">2dp</item>-->
+        <!--        <item name="android:stateListAnimator"></item>-->
+    </style>
+</resources>
